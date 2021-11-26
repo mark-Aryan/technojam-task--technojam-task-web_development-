@@ -11,4 +11,4 @@ So, Its hard to create project as well ass study for my CAT-I, it takes 1hr to d
 # About Myself 
 Name: Aryan Kumar Upadhyay
 BSC(Hons) Computer Science [ 1st YEAR ]
-# Certified in Python and Django
+>Certified in Python and Django
